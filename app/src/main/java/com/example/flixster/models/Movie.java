@@ -64,5 +64,5 @@ public class Movie {
 
     public double getRating() { return rating; }
 
-    public int getMovieId(){ return movieId; };
+    public int getMovieId(){ return movieId; }
 }
